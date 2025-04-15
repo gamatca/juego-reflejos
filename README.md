@@ -1,6 +1,6 @@
 # 🕹️ Comprobador de Reflejos
 
-Estás ante un pequeño juego que mide el tiempo de reacción del jugador. Ha sido diseñado para exponerlo como proyecto científico en el día de la ciencia en la calle de A coruña. Está hecho para correr en una Raspberry Pi, pero también es compatible con Windows, macOS y Linux.
+Estás ante un pequeño juego que mide el tiempo de reacción del jugador. Ha sido diseñado para exponerlo como proyecto científico en el día de la ciencia en la calle de A Coruña del año 2025. Está hecho para correr en una Raspberry Pi, pero también es compatible con Windows, macOS y Linux.
 
 ---
 
